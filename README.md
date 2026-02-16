@@ -1,6 +1,4 @@
-# хеллоу!))
+#nothing
 
-#about yourself
-ниче
-
+email:ariana0tsarova@gmail.com
 inst: aariashka_
